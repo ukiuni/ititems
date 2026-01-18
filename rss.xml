@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>IT Items</title>
+<link>/</link>
+<description>ITアイテム紹介</description>
+<item>
+<title>モニター</title>
+<link>/items/モニター.html</link>
+<description>。高解像度で作業効率が上がるモニターを新調したという内容で、キーボードやマウスも同時導入されています。</description>
+</item>
+<item>
+<title>キーボード</title>
+<link>/items/キーボード.html</link>
+<description>。作業効率を高めるために導入されたキーボードで、モニターやマウスと併せて周辺環境を整える機材として言及されています。</description>
+</item>
+<item>
+<title>マウス</title>
+<link>/items/マウス.html</link>
+<description>。PC操作を快適にする入力機器のマウスで、精確な操作性と作業効率向上に役立つ必需品です。</description>
+</item>
+<item>
+<title>チェア</title>
+<link>/items/チェア.html</link>
+<description>快適な座り心地で長時間作業にも適したチェアで、作業環境の質を高めるアイテムです。</description>
+</item>
+</channel></rss>
